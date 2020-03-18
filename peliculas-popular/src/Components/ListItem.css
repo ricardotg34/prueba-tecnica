@@ -1,0 +1,32 @@
+.item-movie{
+  border-radius: 15px !important;
+  max-height: 137px;
+}
+
+.item-movie:hover{
+  background-color: rgb(56, 56, 56);
+  box-shadow: 0px 5px 20px black;
+}
+
+.item-movie:focus{
+  color: black !important;
+  background-color: white !important;
+  box-shadow: 3px 3px 10px black;
+  outline: none;
+}
+
+.overview{
+  overflow-y: scroll;
+  overflow-x: visible;
+  max-height: 41px;
+  margin-bottom: 8px;
+}
+
+.overview::-webkit-scrollbar{
+  display: none;
+}
+
+.movie-title{
+  overflow: hidden;
+  max-height: 20px;
+}
