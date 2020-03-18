@@ -1,0 +1,12 @@
+La parte practica se encuentra en las dos siguientes carpetas.
+Los puntos 1 y 2 se encuentran en la carpeta 'prueba-kaan'
+Para ejecutar los archivos se deben seguir los siguientes pasos
+1. A nivel de la carpeta ejecutar el comando 'npm install'
+2. Correr el archivo javascript con el comando 'node StringAdd <cadena>'
+3. Correr el archivo typescript con el comando 'ts-node StringAdd.ts <cadena>'
+
+El punto 3 se encuentra en la carpeta 'peliculas'
+Para ejecutar el codigo se debes seguir los siguientes pasos
+1. Tener instalado nodejs
+2. A nivel de la carpeta ejecutar el comando 'npm install'
+3. Correr el proyecto con 'npm start'
